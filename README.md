@@ -38,6 +38,9 @@ These two additional stages represent workflow states where our issue is "code c
 
 See [Setting Up Issue Tracking](https://developer.atlassian.com/sfdc/setting-up-your-workflow/setting-up-issue-tracking) for a step-by-step guide for setting up the Salesforce workflow in JIRA.
 
+# Not able to find the Atlassian documentation for setting up source code version control but this blog post might help
+[Setting Up Source code version control](https://bluecanvas.io/2016/11/15/source-control-atlassian-salesforce-developer-workflow.html)
+
 # Version Control & Feature Branching
 
 All of our metadata is version controlled in a Git repository hosted by [Stash](http://www.atlassian.com/software/stash/). 
